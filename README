@@ -1,0 +1,10 @@
+BOOKLIST
+
+Generates a nice html book list from an XML file.
+Example available at http://evili.homeunix.net/~avuori/books/list.py
+Licensed under GNU GPL.
+Written by Arto Vuori somewhere around 2003.
+
+It is easy to support several book lists without code duplication. See examples list.py and sanna.py.
+
+The XML data file examples are available in the bookdata directory. Unfortunately the DTD that is referensed somewhere in booklist.py is no longer available (lost for ever).

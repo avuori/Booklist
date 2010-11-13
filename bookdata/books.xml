@@ -1,0 +1,1473 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE news SYSTEM 'books.dtd' [
+<!ENTITY ndash "&#8211;">
+]>
+<?xml-stylesheet type='text/xsl' href='books.xsl'?>
+
+<literature>
+
+  <author>
+    <names>
+      <name>Adams, Douglas</name>
+    </names>
+    <books>
+      <book>
+        <title>Linnunradan käsikirja liftareille (osa 1)</title>
+        <readyear>2003</readyear>
+        <mystars>3</mystars>
+		<comment>42.</comment>
+      </book>
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Anderson, Jon Lee</name>
+    </names>
+    <books>
+      <book>
+        <title>Che</title>
+        <readyear>2002</readyear>
+        <mystars>5</mystars>
+		<comment>A very exciting biography of the revolutionary icon.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Aristoteles (Aristotle)</name>
+    </names>
+    <books>
+      <book>
+        <title>Nikomakhoksen etiikka (suom. Simo Knuuttila)</title>
+        <readyear>2006</readyear>
+        <mystars>4</mystars>
+		<comment>Selkeä kuvaus hyve-etiikasta ja kultaisesta keskitiestä.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Berndtson, Erkki</name>
+    </names>
+    <books>
+      <book>
+        <title>Politiikka tieteenä, johdatus valtio-opilliseen ajatteluun</title>
+        <readyear>2003</readyear>
+        <mystars>2</mystars>
+		<comment>Oli HY:n valt. tdk:n (yleinen valtio-oppi) pääsykoekirja.</comment>
+      </book>     
+    </books>
+  </author>   
+
+  <author>
+    <names>
+      <name>Brooks, Jr., Frederick P.</name>
+    </names>
+    <books>
+      <book>
+		  <title>The Mythical Man-Month</title>
+        <readyear>2007</readyear>
+        <mystars>3</mystars>
+		<comment>A classic software business book akin to Peopleware.</comment>
+      </book>     
+    </books>
+  </author> 
+
+  <author>
+    <names>
+      <name>Brown, Dan</name>
+    </names>
+    <books>
+      <book>
+		  <title>Da Vinci &ndash;koodi</title>
+        <readyear>2005</readyear>
+        <mystars>4.5</mystars>
+		<comment>Koukutti.</comment>
+      </book>     
+    </books>
+  </author> 
+
+    <author>
+    <names>
+		<name>Buckroyd, Julia</name>
+    </names>
+    <books>
+      <book>
+        <title>Anoreksia &amp; bulimia</title>
+        <readyear>2008</readyear>
+        <mystars>3</mystars>
+		<comment>Selkeä.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+    <author>
+    <names>
+		<name>Bukowski, Charles</name>
+    </names>
+    <books>
+      <book>
+        <title>Postitoimisto (suom. Kristiina Rikman)</title>
+        <readyear>2008</readyear>
+        <mystars>3.5</mystars>
+		<comment>Viihdyttävä. Lyhyitä hassuja virkkeitä.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+ <author>
+    <names>
+      <name>Bulgakov, Mihail</name>
+    </names>
+    <books>
+      <book>
+        <title>Saatana saapuu Moskovaan</title>
+        <readyear>2005</readyear>
+        <mystars>3.5</mystars>
+		<comment>Outo, outo! Mutta hyvä.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+ <author>
+    <names>
+      <name>Castro, Fidel</name>
+    </names>
+    <books>
+      <book>
+        <title>Historia on minut vapauttava</title>
+        <readyear>2003</readyear>
+        <mystars>4</mystars>
+		<comment>Näyte loistavasta puhetaidosta. Lumosi aikanaan valamiehet.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+ <author>
+    <names>
+      <name>Chomsky, Noam</name>
+    </names>
+    <books>
+      <book>
+        <title>Mediakontrolli (suom. Sami Heino)</title>
+        <readyear>2008</readyear>
+        <mystars>4</mystars>
+		<comment>Demokratia tarkoittaa ihmisten kontrollointia. Hauskan ironisesti, mutta viisaasti se puhuu.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Claude-Pierre, Peggy</name>
+    </names>
+    <books>
+      <book>
+        <title>Syömishäiriöiden salainen kieli (suom. Mirja Rutanen)</title>
+        <readyear>2008</readyear>
+        <mystars>4</mystars>
+		<comment>Kuvaus kielteisestä mielestä. Hyvin kirjoitettu.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+ <author>
+    <names>
+      <name>Davis, Martin</name>
+    </names>
+    <books>
+      <book>
+        <title>Tietokoneen esihistoria Leibnizista Turingiin</title>
+        <readyear>2008</readyear>
+        <mystars>4</mystars>
+		<comment>Hämmästyttävä tarina menneiden aikojen jättiläisistä ja heidän oivalluksistaan.</comment>
+      </book>    
+    </books>    
+  </author>
+
+  <author>
+    <names>
+      <name>DeMarco, Tom</name>
+      <name>Lister, Timothy</name>
+    </names>
+    <books>
+      <book>
+        <title>Peopleware</title>
+        <readyear>2007</readyear>
+        <mystars>5</mystars>
+		<comment>Yksi eniten minua valaisseista kirjoista. Näitä asioita ei vaan yliopistossa kerrota.</comment>
+      </book>
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>de Sade, Marquis</name>
+    </names>
+    <books>
+      <book>
+        <title>Sodoman 120 päivää [johdanto-osa] (suom. Markku Koskimies)</title>
+        <readyear>2008</readyear>
+        <mystars>3</mystars>
+		<comment>
+			Ollakseen 1700-luvulla kirjoitettu, sisältää yllättävän
+			voimakasta tekstiä.
+		</comment>
+      </book>
+       <book>
+        <title>Papin ja kuolevan vuoropuhelu (suom. Markku Koskimies)</title>
+        <readyear>2008</readyear>
+        <mystars>4</mystars>
+		<comment>
+			Dialogi ateismista ja teismistä. Ateistin pääargumentti
+			on sama kuin nykyäänkin eli jumaltodisteiden 
+			täydellinen puuttuminen (todistustaakka on teistillä) 
+			sekä luonnonlakien riittävyys maailmanilmiöiden selittämisessä. 
+			Ateistin moraalisäännöksi tarjotaan tuttua deontologista 
+			kultaista sääntöä.
+		</comment>
+      </book>
+   </books>    
+  </author>   
+
+ <author>
+    <names>
+      <name>Dostoevsky, Fyodor</name>
+    </names>
+    <books>
+      <book>
+        <title>Kirjoituksia kellarista</title>
+        <readyear>2008</readyear>
+        <mystars>3</mystars>
+		<comment>Pääsi outojen romaanien kategoriaani.</comment>
+      </book>
+       <book>
+        <title>Rikos ja rangaistus (suom. M. Vuori)</title>
+        <readyear>2008</readyear>
+        <mystars>4</mystars>
+		<comment>Murhan motiivi on tämän kirjan hienoin juttu.
+			Päähenkilö murhaa nähdäkseen onko hänestä siihen eli kuuluuko
+			hän suurmiesten joukkoon. Tätä itsetutkiskelua ja lopullista
+	 nöyrtymistä tarkastellaan moninaisten keskustelujen kautta.</comment>
+      </book>
+   </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Enqvist, Kari</name>
+    </names>
+    <books>
+      <book>
+        <title>Kosmoksen hahmo</title>
+        <readyear>2005</readyear>
+        <mystars>3</mystars>
+		<comment>Tiedettä maallikoille.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+   <author>
+    <names>
+      <name>Feynman, Richard</name>
+    </names>
+    <books>
+      <book>
+		  <title>"Laskette varmaankin leikkiä, Mr. Feynman!"
+		  (suom. Kimmo Pietiläinen)</title>
+        <readyear>2008</readyear>
+        <mystars>4</mystars>
+		<comment>Lyhyitä, mielenkiintoisia ja hauskoja tarinoita
+			fysiikan professorin elämästä. Sisältää myös mielenkiintoisen
+		näkökulman Manhattan-projektista.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+ <author>
+    <names>
+      <name>Fowler, Martin</name>
+    </names>
+    <books>
+      <book>
+        <title>Refactoring</title>
+        <readyear>2004</readyear>
+        <mystars>4</mystars>
+		<comment>How to recognize bad smells and how to improve your (object-oriented) code.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+   <author>
+    <names>
+      <name>Gamma, Erich et. al.</name>
+    </names>
+    <books>
+      <book>
+        <title>Design Patterns: Elements of Reusable Object-Oriented Software</title>
+        <readyear>2003</readyear>
+        <mystars>4</mystars>
+		<comment>Gang of Four. A must-read for programmers of object-oriented languages.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Graham, Paul</name>
+    </names>
+    <books>
+      <book>
+        <title>Hackers &amp; Painters</title>
+        <readyear>2008</readyear>
+        <mystars>4</mystars>
+		<comment>
+			I most liked the essays about startups.
+			Also, the talk about income gaps is worth noticing.
+		</comment>
+      </book>    
+    </books>    
+  </author>   
+
+<author>
+    <names>
+      <name>Guevara, Ernesto</name>
+    </names>
+    <books>
+      <book>
+        <title>Bolivian Diary</title>
+        <readyear>2003</readyear>
+        <mystars>4</mystars>
+		<comment>Epätoivoinen kuvaus Chen viimeisestä seikkailusta.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Hamsun, Knut</name>
+    </names>
+    <books>
+      <book>
+        <title>Mysteerioita</title>
+        <readyear>2008</readyear>
+        <mystars>3</mystars>
+		<comment>Hassu.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Hardy, G.H.</name>
+    </names>
+    <books>
+      <book>
+        <title>Matemaatikon apologia (suom. Kimmo Pietiläinen)</title>
+        <readyear>2009</readyear>
+        <mystars>4</mystars>
+		<comment>"Ihmisen tulee panostaa kaikkensa siihen,
+			mitä osaa. Kun tämä kyky iän myötä katoaa, elämä
+		    menettää merkityksensä."</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Harris, Thomas</name>
+    </names>
+    <books>
+      <book>
+        <title>Uhrilampaat</title>
+        <readyear>2002</readyear>
+        <mystars>4</mystars>
+		<comment>Kirja on elokuvaa parempi.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+ <author>
+    <names>
+      <name>Hawking, Stephen</name>
+    </names>
+    <books>
+      <book>
+        <title>Ajan lyhyt historia</title>
+        <readyear>2005</readyear>
+        <mystars>3</mystars>
+		<comment>Fysiikkaa maallikolle.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Hayden, Torey</name>
+    </names>
+    <books>
+      <book>
+        <title>Hiljaisuuden lapset (suom. Eeva-Liisa Jaakkola)</title>
+        <readyear>2008</readyear>
+        <mystars>4</mystars>
+		<comment>
+			Lapsipsykologiaa ja myös varoittava esimerkki
+			lapsellisista, epäkypsistä vanhemmista ja sen 
+			pahoista seurauksista poikkeuksellisessa
+			ympäristössä.
+		</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Hesse, Hermann</name>
+    </names>
+    <books>
+      <book>
+        <title>Demian</title>
+        <readyear>2008</readyear>
+        <mystars>3</mystars>
+		<comment>Olisi ehkä uponnut paremmin 10 vuotta sitten.</comment>
+		</book>
+	  <book>
+        <title>Narkissos ja Kultasuu</title>
+        <readyear>2008</readyear>
+        <mystars>5</mystars>
+		<comment>Välillä hitaasti etenevä, mutta loppu on todella hyvä.</comment>
+      </book>    
+   	  <book>
+        <title>Arosusi</title>
+        <readyear>2009</readyear>
+        <mystars>4</mystars>
+		<comment>Hyvä analyysi ihmismielen eri ulottuvuuksista.</comment>
+      </book>    
+   	  <book>
+        <title>Kylpylävieraana Badenissa</title>
+        <readyear>2009</readyear>
+        <mystars>4</mystars>
+		<comment>
+			Omaelämänkerrallista Hesseä.
+		</comment>
+      </book>    
+   	  <book>
+        <title>Siddharta</title>
+        <readyear>2010</readyear>
+        <mystars>4.5</mystars>
+		<comment>
+            Upea seikkailuromaani. Hän osaa paastota, odottaa ja ajatella.
+		</comment>
+      </book>    
+  </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Huxley, Aldous</name>
+    </names>
+    <books>
+      <book>
+        <title>Uljas uusi maailma</title>
+        <readyear>2004</readyear>
+        <mystars>4.5</mystars>
+		<comment>Klassinen dystopiakuvaus. Tähän ollaan menossa, ellei olla jo menty.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Höss, Rudolf</name>
+    </names>
+    <books>
+      <book>
+        <title>Auschwitzin komendantti (suom. R. Wilenius)</title>
+        <readyear>2007</readyear>
+        <mystars>3</mystars>
+		<comment>Mielenkiintoinen kuvaus likaisen työn tekijältä.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Jakobson, Max</name>
+    </names>
+    <books>
+      <book>
+        <title>Pelon ja toivon aika</title>
+        <readyear>2003</readyear>
+        <mystars>4</mystars>
+		<comment>Suomettumisen ajan historiaa Kekkosen kanssa henganneen diplomaatin kertomana.</comment>
+      </book>    
+      <book>
+        <title>Tilinpäätös</title>
+        <readyear>2004</readyear>
+		<mystars>3</mystars>
+		<comment>Suomen lähihistoriaa.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+   <author>
+    <names>
+      <name>Jussila, Osmo et. al.</name>
+    </names>
+    <books>
+      <book>
+        <title>Suomen poliittinen historia</title>
+        <readyear>2003</readyear>
+        <mystars>3</mystars>
+		<comment>Oli HY:n valt. tdk:n (yleinen valtio-oppi) pääsykoekirja.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Kanigel, Robert</name>
+    </names>
+    <books>
+      <book>
+        <title>The Man Who Knew Infinity</title>
+        <readyear>2009</readyear>
+        <mystars>4</mystars>
+		<comment>A great biography of a very original mathematician.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Kernighan, Brian W.</name>
+      <name>Ritchie, Dennis M.</name>
+    </names>
+    <books>
+      <book>
+        <title>The C Programming Language</title>
+        <readyear>2004</readyear>
+        <mystars>4.5</mystars>
+		<comment>K&amp;R. One of the CS classics. Keeps your pointers from dangling.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Lammenranta, Markus</name>
+    </names>
+    <books>
+      <book>
+        <title>Tietoteoria</title>
+        <readyear>2008</readyear>
+        <mystars>2</mystars>
+        <comment>Ensimmäisen pääluvun jälkeen kävi tylsäksi. Kirjan marginaaleissa porukka haukkui Lammenrantaa erinäisin tavoin, mikä
+            selittynee sillä, että niteeni oli HY:n kirjastosta, jossa se on ollut kovassa tenttikirjakäytössä. Ihmisrauniot olivat
+        purkaneet turhautumistaan marginaaliin.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+ <author>
+    <names>
+	  <name>Linzmayer, Owen W.</name>
+    </names>
+    <books>
+      <book>
+		  <title>Apple Confidental &ndash; The definitive history
+		  of the world's most colorful company</title>
+		<readyear>2007</readyear>
+        <mystars>3</mystars>
+		<comment>Apple is not just a company...</comment>
+      </book>    
+    </books>    
+  </author>
+
+  <author>
+    <names>
+	  <name>Machiavelli, Niccolò</name>
+    </names>
+    <books>
+      <book>
+	    <title>Ruhtinas</title>
+		<readyear>2005</readyear>
+        <mystars>3</mystars>
+		<comment>Diktaattoreille ja muihin maihin hyökkääville pakollinen opas, joka kertoo miten kansa pidetään kurissa.</comment>
+      </book>    
+    </books>    
+  </author>
+ 
+  <author>
+    <names>
+      <name>Marx, Karl</name>
+      <name>Engels, Friedrich</name>
+    </names>
+    <books>
+      <book>
+        <title>Kommunistinen manifesti</title>
+        <readyear>2002</readyear>
+        <mystars>3</mystars>
+		<comment>Ei kovin ajankohtainen, mutta kuuluu yleissivistykseen.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Moore, Michael</name>
+    </names>
+    <books>
+      <book>
+        <title>Stupid White Men</title>
+        <readyear>2004</readyear>
+        <mystars>3.5</mystars>
+		<comment>Provocative and entertaining.</comment>
+      </book>    
+    </books>    
+  </author>   
+ 
+  <author>
+    <names>
+	  <name>Määttänen, Pentti</name>
+    </names>
+    <books>
+      <book>
+		  <title>Filosofia &ndash; Johdatus peruskysymyksiin</title>
+        <readyear>2005</readyear>
+        <mystars>3</mystars>
+		<comment>Ihan ok.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Nietzsche, Friedrich</name>
+    </names>
+    <books>
+      <book>
+        <title>Näin puhui Zarathustra</title>
+        <readyear>2005</readyear>
+        <mystars>2</mystars>
+		<comment>En tajunnut pointtia. Pitäisi varmaan lukea uudelleen.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Norman, Richard</name>
+    </names>
+    <books>
+      <book>
+        <title>The Moral Philosophers: An Introduction to Ethics</title>
+        <readyear>2008</readyear>
+        <mystars>3</mystars>
+		<comment>Pretty good overview of major moral theories. Sometimes the personal opinions of the author get a bit stupid.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Orwell, George</name>
+    </names>
+    <books>
+      <book>
+        <title>Eläinten vallankumous</title>
+        <readyear>2003</readyear>
+        <mystars>5</mystars>
+		<comment>Yksi parhaista poliittisista satiireista. Yksi ehdoton suosikkini.</comment>
+      </book>    
+      <book>
+        <title>Nineteen Eighty-four</title> 
+        <readyear>2004</readyear>
+		<mystars>4</mystars>
+		<comment>Tämäkin dystopiakuvaus tuntuu nykyisoveliyhteiskuntien aikana melko realistiselta.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Pihkala, Juha</name>
+      <name>Valtaoja, Esko</name>
+    </names>
+    <books>
+      <book>
+        <title>Nurkkaan ajettu Jumala?</title>
+        <readyear>2004</readyear>
+        <mystars>4</mystars>
+		<comment>Leppoisaa teologisfilosofista pohdintaa. Pohtijoina piispa ja tiedemies.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+	  <names>
+		  <name>Platon (Plato)</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Teokset 1: Apologia, Kriton, Lakhes, Hippias (lyhyempi dialogi),
+				  Ion, Euthyfron, Kharmides, Lysis, Protagoras</title>
+			  <readyear>2005</readyear>
+			  <mystars>4</mystars>
+			  <comment>Sokraattinen metodi tutuksi. Apologia on eittämättä yksi parhaista teoksista, joihin olen saanut tutustua.</comment>
+		  </book>
+		  <book>
+			  <title>Teokset 2: Gorgias, Menon, Meneksenos, Euthydemos, Kratylos</title>
+			  <readyear>2005</readyear>
+			  <mystars>3</mystars>
+			  <comment>Peruskysymysten käsittely jatkuu.</comment>
+		  </book>
+  </books>
+  </author>
+
+  <author>
+  	<names>
+		<name>Raatikainen, Panu</name>
+	</names>
+	<books>
+		<book>
+			<title>Ihmistieteet ja filosofia</title>
+			<readyear>2006</readyear>
+			<mystars>4</mystars>
+			<comment>Oli yhteiskuntatieteiden filosofian kurssikirja. Kirja oli hyvä, mutta kurssi meni silti huonosti :-)</comment>
+		</book>
+	</books>
+  </author>
+
+   <author>
+  	<names>
+		<name>Raffy, Serge</name>
+	</names>
+	<books>
+		<book>
+			<title>Fidel</title>
+			<readyear>2008</readyear>
+			<mystars>4</mystars>
+			<comment>Hieno kuvaus äärimmäisestä vallanhimosta ja uskomattomista sattumista.</comment>
+		</book>
+	</books>
+  </author>
+
+   <author>
+  	<names>
+		<name>Russell, Bertrand</name>
+	</names>
+	<books>
+		<book>
+			<title>The Problems of Philosophy</title>
+			<readyear>2008</readyear>
+			<mystars>3</mystars>
+			<comment>Short essays mainly about matter and knowledge.</comment>
+		</book>
+		  <book>
+			  <title>Onnen valloittaminen</title>
+			  <readyear>2010</readyear>
+			  <mystars>5.0</mystars>
+			  <comment>
+                  Onnettomuuden ja onnellisuuden syitä.
+		      </comment>
+		  </book>
+	</books>
+  </author>
+
+ <author>
+    <names>
+      <name>Saarikoski, Pentti</name>
+    </names>
+    <books>
+      <book>
+        <title>Aika Prahassa</title>
+        <readyear>2002</readyear>
+        <mystars>2</mystars>
+		<comment>Pentin outoa sekoilua.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Sacks, Oliver</name>
+    </names>
+    <books>
+      <book>
+        <title>Mies joka luuli vaimoaan hatuksi</title>
+        <readyear>2005</readyear>
+        <mystars>4</mystars>
+		<comment>Psykologian klassikko. Mielenkiintoinen ja helppolukuinen.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Skepsis Ry.</name>
+    </names>
+    <books>
+      <book>
+        <title>Paholaisen asianajaja</title>
+        <readyear>2005</readyear>
+        <mystars>4</mystars>
+		<comment>Huuhaalle kyytiä.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+	  <names>
+		  <name>Stallman, Richard M.</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Free Software, Free Society: Selected Essays of Richard M. Stallman</title>
+			  <readyear>2008</readyear>
+			  <mystars>4</mystars>
+			  <comment>Idealist, yet so beautiful essays from RMS.</comment>
+		  </book>
+	  </books>
+  </author>
+
+  <author>
+	  <names>
+		  <name>Steinbacher, Sybille</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Auschwitz &ndash; Lyhyt historia</title>
+			  <readyear>2009</readyear>
+			  <mystars>2.5</mystars>
+			  <comment>
+				Käsittämätön tapahtuma, jota ei sovi unohtaa.
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+    <names>
+      <name>Torvalds, Linus</name>
+	  <name>Diamond, David</name>
+    </names>
+    <books>
+      <book>
+        <title>Just for Fun &ndash; The Story of an Accidental Revolutionary</title>
+        <readyear>2007</readyear>
+        <mystars>4.5</mystars>
+		<comment>How Linux came to be.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Valtaoja, Esko</name>
+    </names>
+    <books>
+        <book>
+        <title>Avoin tie</title>
+        <readyear>2006</readyear>
+        <mystars>3</mystars>
+		<comment>Kansantajuistettua tieteellistä ja filosofista pohdintaa.</comment>
+      </book>    
+      <book>
+        <title>Kotona maailmankaikkeudessa</title>
+        <readyear>2004</readyear>
+		<mystars>4</mystars>
+		<comment>Palkittu tiedekirja maallikoille. Kertoo mitä jo tiedämme ja mitä emme vielä tiedä.</comment>
+      </book>    
+   </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Voltaire</name>
+    </names>
+    <books>
+      <book>
+        <title>Candide</title>
+        <readyear>2004</readyear>
+        <mystars>4.5</mystars>
+		<comment>Piristävä kuvaus lannistumattomuudesta ja ikuisesta optimismista.</comment>
+      </book>    
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Vonnegut, Kurt</name>
+    </names>
+    <books>
+      <book>
+        <title>Sähköpiano</title>
+        <readyear>2009</readyear>
+        <mystars>2</mystars>
+		<comment>Ei sytyttänyt kunnolla missään vaiheessa, vaikka Shaahi olikin paikoittain hauska.</comment>
+      </book>
+      <book>
+        <title>Teurastamo 5</title>
+        <readyear>2002</readyear>
+        <mystars>2.5</mystars>
+		<comment>Tätä kehutaan yleensä, mutta oli se kyllä liian outo.</comment>
+      </book>
+      <book>
+        <title>Kissan kehto</title>
+        <readyear>2009</readyear>
+        <mystars>4</mystars>
+		<comment>Nopealukuinen ja leikkisä tieteisromaani. Felix Hoenikkerin
+			hahmossa on samoja lapsekkaita piirteitä kuin Manhattan-projektiin
+		oikeasti osallistuneella Richard Feynmanilla.</comment>
+      </book>
+    </books>    
+  </author>   
+
+  <author>
+    <names>
+      <name>Waltari, Mika</name>
+    </names>
+    <books>
+		<book>
+			<title>Ihmiskunnan viholliset</title>
+			<readyear>2009</readyear>
+			<mystars>3</mystars>
+			<comment>
+				Välillä todella hitaasti etenevä romaani alkukristittyjen ajalta, jolloin kristittyjä kutsuttiin vielä pakanoiksi.
+			</comment>
+	   </book>
+       <book>
+        <title>Johannes Angelos</title>
+        <readyear>2006</readyear>
+        <mystars>4</mystars>
+		<comment>Konstantinopolin piirityksen ympärillä tapahtuva laaturomaani.</comment>
+      </book>
+      <book>
+        <title>Mikael Karvajalka</title>
+        <readyear>2006</readyear>
+        <mystars>5</mystars>
+		<comment>Loistava romaani Turun, Suomen ja Euroopan keskiaikaisesta historiasta.</comment>
+      </book>
+      <book>
+        <title>Sinuhe Egyptiläinen</title>
+        <readyear>2005</readyear>
+        <mystars>5</mystars>
+		<comment>Ehkäpä kaikista paras romaani. Aiheuttaa viininhimoa, kun kirjassa sitä koko ajan juodaan.</comment>
+      </book>
+       <book>
+		   <title>Suuri illusioni</title>
+        <readyear>2007</readyear>
+        <mystars>3</mystars>
+		<comment>Nuoren Waltarin läpimurtoromaani. Kielioppivirheitä on hellyyttävän paljon.</comment>
+      </book>
+       <book>
+        <title>Turms kuolematon</title>
+        <readyear>2007</readyear>
+        <mystars>4</mystars>
+		<comment>Yarr! Merimiehiä. Alussa junnas pahasti paikallaan, mutta parani loppua kohden.</comment>
+      </book>
+       <book>
+        <title>Isästä poikaan</title>
+        <readyear>2009</readyear>
+        <mystars>3.5</mystars>
+		<comment>Helsinki-trilogia. Toinen osa eli Sielu ja liekki nousee 
+			sisällissotakuvauksineen trilogian mieluisimmaksi osaksi.</comment>
+      </book>
+       <book>
+        <title>Kuka murhasi rouva Skrofin?</title>
+        <readyear>2009</readyear>
+        <mystars>3</mystars>
+		<comment>Palkittu dekkari, jonka loppuratkaisua en kyennyt arvaamaan.
+			Lankilan taiteilijakaveri on ehdottomasti kirjan viihdyttävin hahmo
+			Palmun ohessa. Skrofin hahmo perustuu Waltarin nuorena tuntemaan 
+			seurapiirirouva Minna Craucheriin.
+		</comment>
+      </book>
+       <book>
+        <title>Fine van Brooklyn</title>
+        <readyear>2009</readyear>
+        <mystars>4</mystars>
+		<comment>
+			Nuoruuden palavia tunteita hienosti peilaava pienoisromaani.
+		</comment>
+      </book>
+    </books>    
+  </author>   
+
+  <author>
+	  <names>
+		  <name>Wozniak, Steve</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>iWoz / How I Invented the personal computer, co-founded
+			  Apple and had fun doing it</title>
+			  <readyear>2007</readyear>
+			  <mystars>4.5</mystars>
+			  <comment>An inspiring and funny story of Woz.</comment>
+		  </book>
+	  </books>
+  </author>
+
+  <author>
+	  <names>
+		  <name>Raymond, Eric S.</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>The Cathedral and the Bazaar</title>
+			  <readyear>2009</readyear>
+			  <mystars>4</mystars>
+			  <comment>I especially liked the fetchmail part.</comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Rajala, Panu</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Unio mystica &ndash; Mika Waltarin elämä ja teokset</title>
+			  <readyear>2009</readyear>
+			  <mystars>4.5</mystars>
+			  <comment>Antoisa kuvaus Waltarin valtavasta luomisvoimasta ja sen lähteistä.</comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Huovinen, Veikko</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Havukka-ahon ajattelija</title>
+			  <readyear>2009</readyear>
+			  <mystars>3</mystars>
+			  <comment>Paikoittain huumori toimii.</comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Himanen, Pekka</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Hakkerietiikka ja informaatioajan henki</title>
+			  <readyear>2009</readyear>
+			  <mystars>4.5</mystars>
+			  <comment>Hakkereiden intohimon, työmoraalin ja etiikan analyysi ja liittäminen
+				  yhteiskunnalliseen viitekehykseen vastaparinaan erityisesti protestanttinen
+			  etiikka.</comment>
+		  </book>
+		  <book>
+			  <title>Himeros</title>
+			  <readyear>2009</readyear>
+			  <mystars>1.5</mystars>
+			  <comment>
+				  Pettymys.
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Dawkins, Richard</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>The Selfish Gene</title>
+			  <readyear>2009</readyear>
+			  <mystars>4.5</mystars>
+			  <comment>A brilliant, lucid book about evolution in terms of 
+				  replicators (e.g. immortal genes) and vehicles (e.g. mortal bodies).
+				  The viewpoint is of the replicator.</comment>
+		  </book>
+		  <book>
+			  <title>The God Delusion</title>
+			  <readyear>2009</readyear>
+			  <mystars>3</mystars>
+			  <comment>
+				  Explains well what common sense should already tell.
+				  The most important chapter of the book is the one
+				  about undeserved and deserved respect.
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Asimov, Isaac</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Säätiö</title>
+			  <readyear>2009</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+				  Kuvaus aikojen kulusta läpi Seldonin kriisien
+				  on mielenkiintoinen, mutta jäin odottamaan silti
+				  jotakin lisää. Ehkäpä sitten jatko-osissa...
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Säätiö ja imperiumi</title>
+			  <readyear>2009</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+                  Jännittävämpi kuin ensimmäinen osa.
+                  Magnifico on kiehtova kaveri.
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Toinen säätiö</title>
+			  <readyear>2009</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+                Viimeinen osa jäi mielestäni laimeaksi, kun odotukset olivat
+                toisen osan jälkeen nousseet hyvin korkealle. Kuitenkin hyvä 
+                kirja.
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Loe, Erlend</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Supernaiivi</title>
+			  <readyear>2009</readyear>
+			  <mystars>4.5</mystars>
+			  <comment>
+				  Riemastuttava.
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Solzhenitsyn, Aleksandr</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Ivan Denisovitšin päivä</title>
+			  <readyear>2009</readyear>
+			  <mystars>4.5</mystars>
+			  <comment>
+				  Hyytävän hieno kuvaus Neuvostoliiton vankileiristä
+				  1950-luvulta.
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Tapahtui Kretšetovkan asemalla</title>
+			  <readyear>2009</readyear>
+			  <mystars>3</mystars>
+			  <comment>
+				  Loppuu kirpaisevasti. Olisi halunnut tietää lisää.
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Matrjonan talo</title>
+			  <readyear>2009</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+				  Kaunis pienoisnovelli ulkoisesti nuhjuisesta
+				  mutta oikeamielisestä ja lannistumattomasta
+				  Matrjonasta, jonka vaikea elämä kuvaa 
+				  Neuvostoliiton sodanjälkeisen yhteiskunnan
+				  ongelmia.
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Oksanen, Sofi</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Stalinin lehmät</title>
+			  <readyear>2010</readyear>
+			  <mystars>3</mystars>
+			  <comment>
+                  Esikoisromaanin kerronta ei ole samalla tasolla kuin
+                  myöhemmän tuotannon.
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Baby Jane</title>
+			  <readyear>2010</readyear>
+			  <mystars>4.5</mystars>
+			  <comment>
+                  Ahdistusta hyvin selittävä romaani.
+			  </comment>
+		  </book>
+			  <book>
+			  <title>Puhdistus</title>
+			  <readyear>2009</readyear>
+			  <mystars>5</mystars>
+			  <comment>
+				"- - aina tuli krominahkasaapas, aina tuli uusi
+				saapas, samanlainen tai erilainen, mutta samalla
+				tavalla kurkun päälle astuva."
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Abelson, Harold</name>
+		  <name>Sussman, Gerald Jay</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Structure and Interpretation of Computer Programs</title>
+			  <readyear>2009</readyear>
+			  <mystars>5</mystars>
+			  <comment>
+				  My favourite programming book.
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Obama, Barack</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Dreams from my father</title>
+			  <readyear>2009</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+                    A rich story, both in its actual content
+                    and in literary terms.
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Kawasaki, Guy</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Rules for revolutionaries</title>
+			  <readyear>2009</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+                  This is a start-up book.
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Livingstone, Jessica</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Founders at work: stories of startups' early days</title>
+			  <readyear>2009</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+                  Contains a rich collection of often funny stories
+                  of now famous companies' early days. The book tells
+                  us that persistence is the key to success.
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Larsson, Stieg</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Miehet jotka vihaavat naisia</title>
+			  <readyear>2009</readyear>
+			  <mystars>4.5</mystars>
+			  <comment>
+                  Pysyy koko ajan jännittävänä. Seuraavaa lukukertaa
+                  odotin aina innolla.
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Tyttö joka leikki tulella</title>
+			  <readyear>2009</readyear>
+			  <mystars>4.5</mystars>
+			  <comment>
+                  Parempi kuin trilogian ensimmäinen osa.
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Pilvilinna joka romahti</title>
+			  <readyear>2010</readyear>
+			  <mystars>4.5</mystars>
+			  <comment>
+                  Trilogian kolmas osa piti otteessaan loppuun asti.
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Rowling, J. K.</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Harry Potter and the Philosopher's Stone</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+                  Quick and pleasant read.
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Harry Potter and the Chamber of Secrets</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+                  Enjoyed.
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Harry Potter and the Prisoner Azkaban</title>
+			  <readyear>2010</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+                  The series is getting better.
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Harry Potter and the Goblet of Fire</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+                  OK.
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Hotchkiss, Sandy</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Miksi aina sinä?</title>
+			  <readyear>2009</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+                  Narsismin seitsemän syntiä: häpeämättömyys, maaginen ajattelu,
+                  ylimielisyys, kateus, vaativuus, hyväksikäyttö, rajattomuus.
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Poppendieck, Mary</name>
+		  <name>Poppendieck, Tom</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Lean Software Development: An Agile Toolkit</title>
+			  <readyear>2010</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+                  Very good read, especially if you have power
+                  to affect how things are done in your development
+                  team.
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Coelho, Paulo</name>
+	  </names>
+	  <books>
+		  <book>
+              <title>Veronika päättää kuolla</title>
+			  <readyear>2010</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+                   Kauniin romaanin tapahtumapaikkana on lähes kokonaan slovenialainen
+                   mielisairaala. Tarinan taustalla vaikuttaa Coelhon omat nuoruuden
+                   ja oman tahdon vastaiset mielisairaalakokemukset.
+			  </comment>
+		  </book>
+		  <book>
+              <title>Alkemisti</title>
+			  <readyear>2010</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+                  Kaunis kertomus elämäntien etsinnästä,
+                  sydämen äänen seuraamisesta. Oikea rakkaus
+                  ei koskaan estä elämäntien seuraamista.
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Haavikko, Ritva</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Mika Waltari &ndash; Valloittaja</title>
+			  <readyear>2010</readyear>
+			  <mystars>5</mystars>
+			  <comment>
+                  Pakoltakin tätä vertaa Panu Rajalan samana vuonna ilmestyneeseen Waltari-elämänkertaan. Haavikon
+                  version maukkaiden runo- ja näytelmäanalyysiosioiden takia arvostan Haavikon versiota hieman korkeammalle.
+                  Muutenkin Haavikon versio tuntuu asiapitoisemmalta.
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Kershaw, Ian</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Hitler</title>
+			  <readyear>2010</readyear>
+			  <mystars>4.5</mystars>
+			  <comment>
+                  Mielenkiintoinen Hitler-elämänkerta selittää muun muassa miten saksalainen
+                  yhteiskunta mahdollisti kouluttamattoman demagogin ja narsistin ehdottoman 
+                  yksinvaltiuden.
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Petzold, Charles</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>The Annotated Turing</title>
+			  <readyear>2010</readyear>
+			  <mystars>4.0</mystars>
+			  <comment>
+                  A walk-through on Turing's famous 1936 paper "On Computable Numbers with
+                  an Application to the Entscheidungsproblem". Intertwined with the math stuff,
+                  light is shed on the tragic and short life of Turing's. The end part of the book
+                  discusses fruitfully the implications of the intrinsic limitations of computing to the
+                  limitations of two interesting machines, they are no less than the human brain and 
+                  the universe.
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+</literature>

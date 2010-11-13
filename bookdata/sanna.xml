@@ -1,0 +1,1454 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE news SYSTEM 'books.dtd' [
+<!ENTITY ndash "&#8211;">
+]>
+<?xml-stylesheet type='text/xsl' href='books.xsl'?>
+
+<literature>
+
+	<author>
+		<names>
+			<name>Buckroyd, Julia</name>
+		</names>
+		<books>
+			<book>
+				<title>Anoreksia &amp; bulimia</title>
+				<readyear>2008</readyear>
+				<mystars>4</mystars>
+				<comment>
+				Hyvä perusteos anoreksiasta ja bulimiasta. Syömishäiriöiden syitä käsiteltiin monipuolisesti.
+				</comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Coelho, Paulo</name>
+		</names>
+		<books>
+				<book>
+				<title>Alkemisten</title>
+				<readyear>2008</readyear>
+				<mystars>3</mystars>
+				<comment>
+					Onnea ja elämäntarkoitusta etsimässä.
+				</comment>
+			</book>
+		<book>
+				<title>Veronika bestämmer sig för att dö</title>
+				<readyear>2008</readyear>
+				<mystars>4</mystars>
+				<comment>
+					Mielenkiintoinen ja ajatuksia herättävä. 
+					Lopusta pidin erityisen paljon, oli yllättävä.
+				</comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Despentes, Virginie</name>
+		</names>
+		<books>
+			<book>
+				<title>Kauniita asioita</title>
+				<readyear>2008</readyear>
+				<mystars>4</mystars>
+				<comment>
+					Jänniä juonenkäänteitä, hauskaa tekstiä, rivoa menoa mutta silti jotenki inhimillistä herkkyyttä.
+				</comment>
+			</book>
+			<book>
+				<title>Teen Spirit</title>
+				<readyear>2009</readyear>
+				<mystars>5</mystars>
+				<comment>
+				</comment>
+			</book>
+			<book>
+				<title>Pane mua</title>
+				<readyear>2009</readyear>
+				<mystars>4.5</mystars>
+				<comment>
+				</comment>
+			</book>
+	</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Dostojevski, Fedor</name>
+		</names>
+		<books>
+			<book>
+				<title>Rikos ja rangaistus</title>
+				<readyear>2008</readyear>
+				<mystars>4</mystars>
+				<comment>Loistava ja jännittävä kirja. Oli kyllä aika tuhti ja tiivis pakkaus, ja venäläiset nimet sekotti päätä, et oli välillä vaikee pysyä kärryillä.</comment>
+			</book>
+		</books>
+	</author>
+
+		<author>
+		<names>
+			<name>Fante, Dan</name>
+		</names>
+		<books>
+			<book>
+				<title>Aasin vaihteet</title>
+				<readyear>2008</readyear>
+				<mystars>4</mystars>
+				<comment>Todella viihdyttävä,
+				vaikka välillä oli vähän kauhea.</comment>
+			</book>
+			<book>
+				<title>Pilvien pesijä</title>
+				<readyear>2008</readyear>
+				<mystars>4</mystars>
+				<comment></comment>
+			</book>
+			<book>
+				<title>Pönttö</title>
+				<readyear>2008</readyear>
+				<mystars>4</mystars>
+				<comment></comment>
+			</book>
+	</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Hamsun, Knut</name>
+		</names>
+		<books>
+			<book>
+				<title>Mysteerioita</title>
+				<readyear>2008</readyear>
+				<mystars>3</mystars>
+				<comment>
+			Jänskä ja hauska kirja.	</comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Hayden, Torey</name>
+		</names>
+		<books>
+            <book>
+				<title>Aavetyttö</title>
+				<readyear>2008</readyear>
+				<mystars>3</mystars>
+				<comment>
+				</comment>
+			</book>
+            <book>
+				<title>Hiljaisuuden lapset</title>
+				<readyear>2008</readyear>
+				<mystars>5</mystars>
+				<comment>
+				koskettava, ihana kirja &lt;3
+				</comment>
+			</book>
+            <book>
+				<title>Auringonkukkametsä</title>
+				<readyear>2009</readyear>
+				<mystars>4</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Jansson, Tove</name>
+		</names>
+		<books>
+			<book>
+				<title>Farlig midsommar</title>
+				<readyear>2009</readyear>
+				<mystars>5</mystars>
+				<comment>
+				</comment>
+			</book>
+			<book>
+				<title>Kometen kommer</title>
+				<readyear>2009</readyear>
+				<mystars>5</mystars>
+				<comment>
+				</comment>
+			</book>
+			<book>
+				<title>Pappan och havet</title>
+				<readyear>2009</readyear>
+				<mystars>5</mystars>
+				<comment>
+				</comment>
+			</book>
+			<book>
+				<title>Sent i november</title>
+				<readyear>2009</readyear>
+				<mystars>5</mystars>
+				<comment></comment>
+			</book>
+			<book>
+				<title>Småtrollen och den stora översvämningen</title>
+				<readyear>2009</readyear>
+				<mystars>5</mystars>
+				<comment>Erityisesti pidin kansikuvasta.</comment>
+			</book>
+			<book>
+				<title>Trollvinter</title>
+				<readyear>2008</readyear>
+				<mystars>5</mystars>
+				<comment>
+				</comment>
+			</book>
+			<book>
+				<title>Rent spel</title>
+				<readyear>2009</readyear>
+				<mystars>3</mystars>
+				<comment>
+				</comment>
+			</book>
+			<book>
+				<title>Trollkarlens hatt</title>
+				<readyear>2009</readyear>
+				<mystars>5</mystars>
+				<comment>
+				</comment>
+			</book>
+			<book>
+				<title>Muminpappans memoarer</title>
+				<readyear>2009</readyear>
+				<mystars>4.5</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Kraus, Caroline</name>
+		</names>
+		<books>
+			<book>
+				<title>Borderline</title>
+				<readyear>2009</readyear>
+				<mystars>5</mystars>
+				<comment></comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Kärkkäinen, Kata</name>
+		</names>
+		<books>
+			<book>
+				<title>Jumalasta seuraava</title>
+				<readyear>2009</readyear>
+				<mystars>5</mystars>
+				<comment></comment>
+			</book>
+		<book>
+				<title>Kahdeksas huone</title>
+				<readyear>2009</readyear>
+				<mystars>3</mystars>
+				<comment></comment>
+			</book>
+			<book>
+				<title>Vangitse minut vapaaksi</title>
+				<readyear>2009</readyear>
+				<mystars>2</mystars>
+				<comment></comment>
+			</book>
+			<book>
+				<title>Tulikärpäsiä</title>
+				<readyear>2009</readyear>
+				<mystars>4</mystars>
+				<comment></comment>
+			</book>
+		</books>
+</author>
+
+	<author>
+		<names>
+			<name>Lander, Leena</name>
+		</names>
+		<books>
+			<book>
+				<title>Käsky</title>
+				<readyear>2009</readyear>
+				<mystars>4</mystars>
+				<comment></comment>
+			</book>
+			<book>
+				<title>Tummien perhosten koti</title>
+				<readyear>2009</readyear>
+				<mystars>3</mystars>
+				<comment></comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Lejonsommar, Eva</name>
+		</names>
+		<books>
+			<book>
+				<title>En av oss</title>
+				<readyear>2009</readyear>
+				<mystars>3</mystars>
+				<comment></comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Reenkola, Elina</name>
+		</names>
+		<books>
+			<book>
+				<title>Nainen ja viha: aggressio voimavaraksi</title>
+				<readyear>2009</readyear>
+				<mystars>4</mystars>
+				<comment></comment>
+			</book>
+			<book>
+				<title>Intohimoinen nainen: psykoanalyyttisia tutkielmia
+					halusta, rakkaudesta ja häpeästä</title>
+				<readyear>2009</readyear>
+				<mystars>4</mystars>
+				<comment></comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Rowling, J. K.</name>
+		</names>
+		<books>
+			<book>
+				<title>Harry Potter and the Chamber of Secrets</title>
+				<readyear>2009</readyear>
+				<mystars>5</mystars>
+				<comment></comment>
+			</book>
+			<book>
+				<title>Harry Potter and the Philosopher's Stone</title>
+				<readyear>2009</readyear>
+				<mystars>5</mystars>
+				<comment></comment>
+			</book>
+			<book>
+				<title>Harry Potter and the Prisoner of Azkaban</title>
+				<readyear>2009</readyear>
+				<mystars>5</mystars>
+				<comment></comment>
+			</book>
+	</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Saarinen, E.</name>
+		</names>
+		<books>
+			<book>
+				<title>Jane Blond ja tohtori Maybe</title>
+				<readyear>2009</readyear>
+				<mystars>4</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Teppo M.</name>
+		</names>
+		<books>
+			<book>
+				<title>Sata naista</title>
+				<readyear>2008</readyear>
+				<mystars>3</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Timgren, Katja</name>
+		</names>
+		<books>
+			<book>
+				<title>Det jag inte säger</title>
+				<readyear>2009</readyear>
+				<mystars>2</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Wharton, William</name>
+		</names>
+		<books>
+			<book>
+				<title>Isä</title>
+				<readyear>2009</readyear>
+				<mystars>5</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Linderborg, Åsa</name>
+		</names>
+		<books>
+			<book>
+				<title>Mig äger ingen</title>
+				<readyear>2009</readyear>
+				<mystars>4</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Waters, Sarah</name>
+		</names>
+		<books>
+			<book>
+				<title>Livstråden</title>
+				<readyear>2009</readyear>
+				<mystars>4</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Bechdel, Alison</name>
+		</names>
+		<books>
+			<book>
+				<title>Hautuukoti &ndash; tragikoominen perheeni</title>
+				<readyear>2009</readyear>
+				<mystars>4</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+	
+	<author>
+		<names>
+			<name>Capote, Truman</name>
+		</names>
+		<books>
+			<book>
+				<title>Frukost på Tiffany's</title>
+				<readyear>2009</readyear>
+				<mystars>2</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Kübler-Ross, Elisabeth</name>
+			<name>Kessler, David</name>
+		</names>
+		<books>
+			<book>
+				<title>Suru ja surutyö</title>
+				<readyear>2009</readyear>
+				<mystars>5</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Aaltonen, Kirsti (toim.)</name>
+		</names>
+		<books>
+			<book>
+				<title>Saattohoito</title>
+				<readyear>2009</readyear>
+				<mystars>4</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Sixx, Nikki</name>
+			<name>Gittins, Ian</name>
+		</names>
+		<books>
+			<book>
+				<title>Heroiinipäiväkirja</title>
+				<readyear>2009</readyear>
+				<mystars>3</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Hesse, Hermann</name>
+		</names>
+		<books>
+			<book>
+				<title>Arosusi</title>
+				<readyear>2009</readyear>
+				<mystars>5</mystars>
+				<comment>
+				</comment>
+			</book>
+			<book>
+				<title>Lasihelmipeli</title>
+				<readyear>2009</readyear>
+				<mystars>4.5</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Stenberg, Birgitta</name>
+		</names>
+		<books>
+			<book>
+				<title>Fritt förfall</title>
+				<readyear>2009</readyear>
+				<mystars>3</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+
+	<author>
+		<names>
+			<name>Härkönen, Anna-Leena</name>
+		</names>
+		<books>
+			<book>
+				<title>Ei kiitos</title>
+				<readyear>2009</readyear>
+				<mystars>5</mystars>
+				<comment>
+				</comment>
+			</book>
+			<book>
+				<title>Juhannusvieras</title>
+				<readyear>2009</readyear>
+				<mystars>3.5</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+	<author>
+		<names>
+			<name>Highsmith, Patricia</name>
+		</names>
+		<books>
+			<book>
+				<title>Carol</title>
+				<readyear>2009</readyear>
+				<mystars>3.5</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+	<author>
+		<names>
+			<name>Nilsson, Åsa</name>
+		</names>
+		<books>
+			<book>
+				<title>Dags att våga?</title>
+				<readyear>2009</readyear>
+				<mystars>2.5</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+	<author>
+		<names>
+			<name>Juslin, Emma</name>
+		</names>
+		<books>
+			<book>
+				<title>Frida och Frida</title>
+				<readyear>2009</readyear>
+				<mystars>3.5</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+	<author>
+		<names>
+			<name>Donoghue, Emma</name>
+		</names>
+		<books>
+			<book>
+				<title>Förlust</title>
+				<readyear>2009</readyear>
+				<mystars>4</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+	<author>
+		<names>
+			<name>Sammalkorpi, Virve</name>
+		</names>
+		<books>
+			<book>
+				<title>Sinkkuleikki</title>
+				<readyear>2009</readyear>
+				<mystars>4</mystars>
+				<comment>
+				</comment>
+			</book>
+			<book>
+				<title>Pinnan alla</title>
+				<readyear>2009</readyear>
+				<mystars>4</mystars>
+				<comment>
+				</comment>
+			</book>
+			<book>
+				<title>Paula ja Klaus</title>
+				<readyear>2009</readyear>
+				<mystars>4</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+	<author>
+		<names>
+			<name>Faldbakken, Knut</name>
+		</names>
+		<books>
+			<book>
+				<title>Bad Boy</title>
+				<readyear>2009</readyear>
+				<mystars>4</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+	<author>
+		<names>
+			<name>Meyer, Stephenie</name>
+		</names>
+		<books>
+			<book>
+				<title>New moon</title>
+				<readyear>2009</readyear>
+				<mystars>4.5</mystars>
+				<comment>
+				</comment>
+			</book>
+			<book>
+				<title>Twilight</title>
+				<readyear>2009</readyear>
+				<mystars>3.5</mystars>
+				<comment>
+				</comment>
+			</book>
+			<book>
+				<title>Eclipse</title>
+				<readyear>2009</readyear>
+				<mystars>3.5</mystars>
+				<comment>
+				</comment>
+			</book>
+			<book>
+				<title>Breaking dawn</title>
+				<readyear>2009</readyear>
+				<mystars>4</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+	<author>
+		<names>
+			<name>Vonnegut, Kurt</name>
+		</names>
+		<books>
+			<book>
+				<title>Teurastamo 5</title>
+				<readyear>2009</readyear>
+				<mystars>5</mystars>
+				<comment>
+				</comment>
+			</book>
+			<book>
+                <title>Kissan kehto</title>
+				<readyear>2009</readyear>
+				<mystars>5</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+	<author>
+		<names>
+			<name>Palmkvist, Conny</name>
+		</names>
+		<books>
+			<book>
+				<title>Hej då, allihopa</title>
+				<readyear>2009</readyear>
+				<mystars>4.5</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+	<author>
+		<names>
+			<name>Pulkkinen, Riikka</name>
+		</names>
+		<books>
+			<book>
+				<title>Raja</title>
+				<readyear>2009</readyear>
+				<mystars>4</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+	<author>
+		<names>
+			<name>Westin, Boel</name>
+		</names>
+		<books>
+			<book>
+				<title>Tove Jansson: ord, bild, liv</title>
+				<readyear>2009</readyear>
+				<mystars>4</mystars>
+				<comment>
+				</comment>
+			</book>
+		</books>
+	</author>
+  <author>
+	  <names>
+		  <name>Oksanen, Sofi</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Puhdistus</title>
+			  <readyear>2009</readyear>
+			  <mystars>5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Leavitt, David</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Besvarad kärlek</title>
+			  <readyear>2009</readyear>
+			  <mystars>5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Larsson, Stieg</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Män som hatar kvinnor</title>
+			  <readyear>2009</readyear>
+			  <mystars>5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Flickan som lekte med elden</title>
+			  <readyear>2009</readyear>
+			  <mystars>5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+          <book>
+              <title>Luftslottet som sprängdes</title>
+              <readyear>2009</readyear>
+              <mystars>5</mystars>
+              <comment></comment>
+          </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Poutanen, Kira</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Kotimatka</title>
+			  <readyear>2009</readyear>
+			  <mystars>3</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Johnson, Mark</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Väärillä raiteilla</title>
+			  <readyear>2009</readyear>
+			  <mystars>4.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Vimma, Tuomas</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Gourmet</title>
+			  <readyear>2009</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Tähkä, Veikko</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Mielen rakentuminen ja psykoanalyyttinen hoitaminen</title>
+			  <readyear>2009</readyear>
+			  <mystars>5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Baldacci, David</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Kunnian vartijat</title>
+			  <readyear>2009</readyear>
+			  <mystars>2.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Martin, Les</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>The X Files: Bellefleurin kadotetut</title>
+			  <readyear>2009</readyear>
+			  <mystars>1</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Vuorinen, Juha</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Juoppohullun päiväkirja</title>
+			  <readyear>2010</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Kristianin nuoruusvuodet</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Kristian siviilipalvelusmiehenä</title>
+			  <readyear>2010</readyear>
+			  <mystars>1.0</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+      </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Paretsky, Sara</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Sohaisu pimeään</title>
+			  <readyear>2010</readyear>
+			  <mystars>1.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Beckett, Simon</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Skrivet i eld</title>
+			  <readyear>2009</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Dödens kemi</title>
+			  <readyear>2009</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+          <book>
+			  <title>Dödens viskningar</title>
+			  <readyear>2010</readyear>
+			  <mystars>3</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Romer, Knud</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Den som blinkar är rädd för döden</title>
+			  <readyear>2010</readyear>
+			  <mystars>1.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Collins, Max Allan</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>The X Files</title>
+			  <readyear>2010</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+	  <names>
+		  <name>Grant, Charles</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>The X Files: Verituuli</title>
+			  <readyear>2010</readyear>
+			  <mystars>3</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+          <book>
+              <title>The X Files: Goblins</title>
+              <readyear>2010</readyear>
+              <mystars>2</mystars>
+              <comment>
+              </comment>
+           </book>
+	  </books>
+ </author>
+  <author>
+	  <names>
+		  <name>Slick, Grace</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>Somebody to Love?</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+ </author>
+  <author>
+	  <names>
+		  <name>Mezaich, Ben</name>
+	  </names>
+	  <books>
+		  <book>
+			  <title>The X Files: Skin</title>
+			  <readyear>2010</readyear>
+			  <mystars>3</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+ </author>
+ <author>
+     <names>
+		  <name>Nyman, Stefan</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Anna är online</title>
+			  <readyear>2010</readyear>
+			  <mystars>3</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Anderson, Kevin J.</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>The X Files: Ruiner</title>
+			  <readyear>2010</readyear>
+			  <mystars>2</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>McDermid, Val</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Dödslagen</title>
+			  <readyear>2010</readyear>
+			  <mystars>1.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Hautala, Turkka</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Salo</title>
+			  <readyear>2010</readyear>
+			  <mystars>4.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Scott, Kody</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Monster: Crips &ndash; jengiläisen muistelmat</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Kinsella, Sophie</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Himoshoppaaja vierailla mailla</title>
+			  <readyear>2010</readyear>
+			  <mystars>2.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Himoshoppaajan salaiset unelmat</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Muistatko minut?</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.0</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>En shopaholic säger ja</title>
+			  <readyear>2010</readyear>
+			  <mystars>2</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Himoshoppaajan sisko</title>
+			  <readyear>2010</readyear>
+			  <mystars>3</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Flickan från tjugotalet</title>
+			  <readyear>2010</readyear>
+			  <mystars>3</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Himoshoppaajan vauva</title>
+			  <readyear>2010</readyear>
+			  <mystars>3</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Dardenne, Sabine</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>I Choose to Live</title>
+			  <readyear>2010</readyear>
+			  <mystars>4.0</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Carter, Chris</name>
+		  <name>Spotnitz, Frank</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>The X Files: Fight the Future</title>
+			  <readyear>2010</readyear>
+			  <mystars>2.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Nousiainen, Miika</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Maaninkavaara</title>
+			  <readyear>2010</readyear>
+			  <mystars>4.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Vadelmavenepakolainen</title>
+			  <readyear>2010</readyear>
+			  <mystars>4.0</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Tamarkin, Jeff</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Got a Revolution! &ndash; The Trubulent Flight of Jefferson Airplane</title>
+			  <readyear>2010</readyear>
+			  <mystars>4.0</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Loisa, Elina</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Julkeat</title>
+			  <readyear>2010</readyear>
+			  <mystars>4.0</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Tolkien, J.R.R.</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>The Lord of the Rings</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Keyes, Marian</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Änglar</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Naura, Claire, Naura!</title>
+			  <readyear>2010</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Är det någon där?</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Wilde, Oscar</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Dorian Grayn muotokuva</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Roman, Andreas</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Mörkrädd</title>
+			  <readyear>2010</readyear>
+			  <mystars>1</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Martin, George R.R,</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Tulen ja jään laulu 1: Valtaistuinpeli</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Tulen ja jään laulu 2: Kuninkaiden koitos</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Tulen ja jään laulu 3: Miekkamyrsky 1</title>
+			  <readyear>2010</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Tulen ja jään laulu 3: Miekkamyrsky 2</title>
+			  <readyear>2010</readyear>
+			  <mystars>4.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Miles, Barry</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Charles Bukowski</title>
+			  <readyear>2010</readyear>
+			  <mystars>3</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Grimsdottir, Vidgis</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Z-rakkaustarina</title>
+			  <readyear>2010</readyear>
+			  <mystars>5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+
+ <author>
+     <names>
+		  <name>Sinisalo, Johanna</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Linnunaivot</title>
+			  <readyear>2010</readyear>
+			  <mystars>3</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Hietamies, Heikki</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Äideistä parhain</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+
+ <author>
+     <names>
+		  <name>Tiilikka, Elina</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Punainen mekko</title>
+			  <readyear>2010</readyear>
+			  <mystars>4.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+
+
+
+
+</literature>
