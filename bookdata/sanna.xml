@@ -356,6 +356,12 @@
 				<mystars>5</mystars>
 				<comment></comment>
 			</book>
+			<book>
+				<title>Harry Potter och dödsrelikerna</title>
+				<readyear>2010</readyear>
+				<mystars>5</mystars>
+				<comment></comment>
+			</book>
 	</books>
 	</author>
 
@@ -847,6 +853,13 @@
 			  <comment>
 			  </comment>
 		  </book>
+		  <book>
+			  <title>Rakkautta al dente</title>
+			  <readyear>2011</readyear>
+			  <mystars>2.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
 	  </books>
   </author>
   <author>
@@ -1190,6 +1203,20 @@
 			  <comment>
 			  </comment>
 		  </book>
+		  <book>
+			  <title>Varsinainen talousihme</title>
+			  <readyear>2010</readyear>
+			  <mystars>3</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Minishoppaaja</title>
+			  <readyear>2011</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
 	  </books>
   </author>
  <author>
@@ -1248,7 +1275,7 @@
      </names>
 	  <books>
 		  <book>
-			  <title>Got a Revolution! &ndash; The Trubulent Flight of Jefferson Airplane</title>
+			  <title>Got a Revolution! &ndash; The Turbulent Flight of Jefferson Airplane</title>
 			  <readyear>2010</readyear>
 			  <mystars>4.0</mystars>
 			  <comment>
@@ -1290,6 +1317,41 @@
      </names>
 	  <books>
 		  <book>
+              <title>Sushi för nybörjare</title>
+			  <readyear>2011</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Rachelin loma</title>
+			  <readyear>2011</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Å andra sidan</title>
+			  <readyear>2011</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Oväntat besök på Star Street</title>
+			  <readyear>2011</readyear>
+			  <mystars>3</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>När Lucy Sullivan skulle gifta sig</title>
+			  <readyear>2010</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
 			  <title>Änglar</title>
 			  <readyear>2010</readyear>
 			  <mystars>3.5</mystars>
@@ -1307,6 +1369,20 @@
 			  <title>Är det någon där?</title>
 			  <readyear>2010</readyear>
 			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Sista chansen</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>En förtjusande man</title>
+			  <readyear>2011</readyear>
+			  <mystars>4.0</mystars>
 			  <comment>
 			  </comment>
 		  </book>
@@ -1328,6 +1404,20 @@
   </author>
  <author>
      <names>
+		  <name>Harris, Charlaine</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Veren voima</title>
+			  <readyear>2011</readyear>
+			  <mystars>2.0</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+  <author>
+     <names>
 		  <name>Roman, Andreas</name>
      </names>
 	  <books>
@@ -1342,7 +1432,7 @@
   </author>
  <author>
      <names>
-		  <name>Martin, George R.R,</name>
+		  <name>Martin, George R.R.</name>
      </names>
 	  <books>
 		  <book>
@@ -1373,7 +1463,14 @@
 			  <comment>
 			  </comment>
 		  </book>
-		  </books>
+		  <book>
+			  <title>Tulen ja jään laulu 4: Korppien kestit</title>
+			  <readyear>2010</readyear>
+			  <mystars>5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+      </books>
   </author>
  <author>
      <names>
@@ -1398,6 +1495,13 @@
 			  <title>Z-rakkaustarina</title>
 			  <readyear>2010</readyear>
 			  <mystars>5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Från ljus till ljus</title>
+			  <readyear>2011</readyear>
+			  <mystars>3.5</mystars>
 			  <comment>
 			  </comment>
 		  </book>
@@ -1447,8 +1551,260 @@
 		  </book>
 	  </books>
   </author>
-
-
-
-
+ <author>
+     <names>
+		  <name>Tallqvist, Tarja</name>
+		  <name>Simonen, Elina</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Kuka vierelles jää</title>
+			  <readyear>2010</readyear>
+			  <mystars>3</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>al-Aswani, Alaa</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Yacoubian-talon tarinat</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Laine, Anne, et al</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Opi ja ohjaa sosiaali- ja terveysalalla</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.0</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Ahern, Cecelia</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>P.S. Rakastan sinua</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.0</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Lehto, Katriina</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Ulrike Meinhof &ndash; Lähemmäs totuutta, ei todellisuutta</title>
+			  <readyear>2010</readyear>
+			  <mystars>3.0</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Voltaire</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Sallimus</title>
+			  <readyear>2011</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Franzén, Peter</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Tumman veden päällä</title>
+			  <readyear>2011</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Alsanea, Rajaa</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Riadin tytöt</title>
+			  <readyear>2011</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Spitz, Marc</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>David Bowie</title>
+			  <readyear>2011</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Steinbeck, John</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Hiiriä ja ihmisiä</title>
+			  <readyear>2011</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Bowie, Angela</name>
+		  <name>Carr, Patrick</name>
+     </names>
+	  <books>
+		  <book>
+              <title>Backstage passes &ndash;
+                  Life on the wild side with David Bowie</title>
+			  <readyear>2011</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Lodalen, Mian</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Smulklubbens skamlösa systrar</title>
+			  <readyear>2011</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Trekant</title>
+			  <readyear>2011</readyear>
+			  <mystars>5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+		  <book>
+			  <title>Tiger</title>
+			  <readyear>2011</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+		  <name>Raitasuo, Ilkka</name>
+		  <name>Siltala, Terhi</name>
+     </names>
+	  <books>
+		  <book>
+              <title>Kellokosken prinsessa</title>
+			  <readyear>2011</readyear>
+			  <mystars>3</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+         <name>Ragde, Anna B.</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Satunnaista seuraa</title>
+			  <readyear>2011</readyear>
+			  <mystars>3</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+         <name>Bagshawe, Tilly</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Välkommen till Hollywood</title>
+			  <readyear>2011</readyear>
+			  <mystars>3.5</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+         <name>Hornby, Nick</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Hyvät ihmiset</title>
+			  <readyear>2011</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
+ <author>
+     <names>
+         <name>Bronte, Emily</name>
+     </names>
+	  <books>
+		  <book>
+			  <title>Humiseva harju</title>
+			  <readyear>2011</readyear>
+			  <mystars>4</mystars>
+			  <comment>
+			  </comment>
+		  </book>
+	  </books>
+  </author>
 </literature>
