@@ -150,7 +150,7 @@ class UI:
         print introText
  
         print u"<table>"
-        print u"<tr><th>Author(s)</th><th>Title</th><th>Year</th>" \
+        print u"<tr><th class='authors'>Author(s)</th><th>Title</th><th>Year</th>" \
                 "<th style='width:75px'>Rate (1-5)</th><th>Comment</th></tr>"
 
         authors.sort()

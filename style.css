@@ -8,3 +8,7 @@ th, td {
     padding-bottom: 4px;
     padding-top: 0;
 }
+
+th.authors {
+    width: 20%;
+}
