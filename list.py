@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 
-import time
+import time, os
 import booklist
+
+data = "/home/avuori/bookdata/books.xml"
+mtime = os.stat(data).st_mtime
 
 intro = u"<p> \
     Here I have gathered some of the books I have read \
@@ -34,7 +37,8 @@ intro = u"<p> \
     experimentate with Python's xml.dom.minidom library as well as \
     with inline base64-encoded images (look at how the stars are being generated \
     by javascript). \
-    </p><hr />"
+    </p><p>Muokattu viimeksi %s.</p><hr />" \
+	% time.strftime("%d.%m.%Y klo %H:%M", time.localtime(mtime))
 
 t = time.time()
 booklist.OutputHandler().run("/home/avuori/bookdata/books.xml",

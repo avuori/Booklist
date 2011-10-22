@@ -258,13 +258,7 @@ class UI:
                "</head><body>" % (pageTitle, UI.STAR_DATA, UI.HALFSTAR_DATA, cssPath)
 
     def printHtmlFooter(self):
-        print u"<SCRIPT charset=\"utf-8\" type=\"text/javascript\" " \
-                "src=\"http://ws.amazon.com/widgets/q?ServiceVersion=20070822" \
-                "&MarketPlace=US&ID=V20070822/US/kirjalista-20/8005/0dff475d-c893-4300-886e-f97bc59cac1b\"> "\
-                "</SCRIPT> <NOSCRIPT><A HREF=\"http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US" \
-                "&ID=V20070822%2FUS%2Fkirjalista-20%2F8005%2F0dff475d-c893-4300-886e-f97bc59cac1b&Operation=NoScript\">" \
-                "Amazon.com Widgets</A></NOSCRIPT>" \
-                "</body></html>"
+	print "</body></html>"
 
 class OutputHandler:
     def printHttpHeaders(self):
