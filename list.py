@@ -41,7 +41,7 @@ intro = u"<p> \
 	% time.strftime("%d.%m.%Y klo %H:%M", time.localtime(mtime))
 
 t = time.time()
-booklist.OutputHandler().run("/home/avuori/bookdata/books.xml",
+booklist.OutputHandler().run(data,
                              "Some of the books I have read during the 21st century",
                              intro,
                              "./style.css")
