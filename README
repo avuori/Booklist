@@ -1,7 +1,8 @@
 BOOKLIST
 
 Generates a nice html book list from an XML file.
-Example available at http://evili.homeunix.net/~avuori/books/list.py
+Example available at http://codespoon.info/~avuori/books/list.py
+
 Licensed under GNU GPL.
 Written by Arto Vuori somewhere around 2003.
 
