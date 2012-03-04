@@ -7,8 +7,6 @@
 # 6.10.2008
 # Arto Vuori
 #
-# TODO: - sorting: author(DONE), rate, year
-#
 import cgi
 import time
 import xml.dom.minidom
@@ -150,7 +148,7 @@ class UI:
         print introText
  
         print u"<table id='books' class='tablesorter'>"
-        print u"<thead><tr><th class='authors'>Author(s)</th><th>Title</th><th>Year</th>" \
+        print u"<thead><tr><th class='authors'>Author(s)</th><th>Title</th><th style='width:40px'>Year</th>" \
                 "<th style='width:75px'>Rate (1-5)</th><th>Comment</th></tr></thead>"
 
         authors.sort()
@@ -159,14 +157,14 @@ class UI:
 
         for a in authors:
             self.printAuthor(a)
-        print u"</tbody></table><hr />"
+        print u"</tbody></table>"
 
         self.printStats(authors)
 
         self.printHtmlFooter()
 
     def printStats(self, authors):
-        print "<h2>Reading statistics</h2>"
+        print "<h2>Statistics</h2>"
         yearMap = {}
         yearRateMap = {}
         authorMap = {}
@@ -226,8 +224,8 @@ class UI:
                    self.getStars(book.getRate(), "stars_%d" % id), 
                    cgi.escape(book.getComment()))
             count += 1
-            if (len(author.getBooks()) == count):
-                print "<tr><td colspan='5'>&nbsp;</td></tr>"
+            #if (len(author.getBooks()) == count):
+            #    print "<tr><td colspan='5'>&nbsp;</td></tr>"
 
     def printHtmlHeader(self, pageTitle, cssPath):
         print u"<?xml version='1.0'?>\n" \
@@ -239,6 +237,7 @@ class UI:
                     "charset=UTF-8' />" \
                "<title>%s</title>\n" \
                "<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js'></script>" \
+               "<script type='text/javascript' src='jquery.tablesorter.min.js'></script>" \
                "<script type='text/javascript'>" \
                    "//<![CDATA[\n" \
                    "star_data = \"%s\";\n" \
@@ -253,7 +252,7 @@ class UI:
                      "return tag + stars(n-1);" \
                    "}\n" \
                    "printStars = function(id, n) {\n" \
-                     "document.getElementById(id).innerHTML = stars(n);" \
+                     "document.getElementById(id).innerHTML = \"<span style='display:none'>\" + n + \"</span>\" + stars(n);" \
                    "}\n" \
                    "$(function() {" \
                         "$('#books').tablesorter();" \
@@ -261,6 +260,7 @@ class UI:
                    "//]]>\n" \
                "</script>" \
                "<link href='%s' rel='stylesheet' type='text/css' />" \
+               "<link href='style.css' rel='stylesheet' type='text/css' />" \
                "</head><body>" % (pageTitle, UI.STAR_DATA, UI.HALFSTAR_DATA, cssPath)
 
     def printHtmlFooter(self):
