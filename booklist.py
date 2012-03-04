@@ -149,15 +149,17 @@ class UI:
 
         print introText
  
-        print u"<table>"
-        print u"<tr><th class='authors'>Author(s)</th><th>Title</th><th>Year</th>" \
-                "<th style='width:75px'>Rate (1-5)</th><th>Comment</th></tr>"
+        print u"<table id='books' class='tablesorter'>"
+        print u"<thead><tr><th class='authors'>Author(s)</th><th>Title</th><th>Year</th>" \
+                "<th style='width:75px'>Rate (1-5)</th><th>Comment</th></tr></thead>"
 
         authors.sort()
 
+        print "<tbody>"
+
         for a in authors:
             self.printAuthor(a)
-        print u"</table><hr />"
+        print u"</tbody></table><hr />"
 
         self.printStats(authors)
 
@@ -236,6 +238,7 @@ class UI:
                "<meta http-equiv='Content-Type' content='application/xhtml+xml; " \
                     "charset=UTF-8' />" \
                "<title>%s</title>\n" \
+               "<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js'></script>" \
                "<script type='text/javascript'>" \
                    "//<![CDATA[\n" \
                    "star_data = \"%s\";\n" \
@@ -252,6 +255,9 @@ class UI:
                    "printStars = function(id, n) {\n" \
                      "document.getElementById(id).innerHTML = stars(n);" \
                    "}\n" \
+                   "$(function() {" \
+                        "$('#books').tablesorter();" \
+                   "});" \
                    "//]]>\n" \
                "</script>" \
                "<link href='%s' rel='stylesheet' type='text/css' />" \

@@ -3,7 +3,7 @@
 import time, os
 import booklist
 
-data = "/home/avuori/bookdata/books.xml"
+data = "bookdata/books.xml"
 mtime = os.stat(data).st_mtime
 
 intro = u"<p> \
@@ -44,5 +44,5 @@ t = time.time()
 booklist.OutputHandler().run(data,
                              "Some of the books I have read during the 21st century",
                              intro,
-                             "./style.css")
+                             "./books.css")
 print u"\n<!-- Generation took %d milliseconds. -->" % ((time.time()-t) * 10**3)
