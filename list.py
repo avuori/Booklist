@@ -3,7 +3,7 @@
 import time, os
 import booklist
 
-data = "bookdata/books.xml"
+data = "/home/avuori/bookdata/books.xml"
 mtime = os.stat(data).st_mtime
 
 intro = u"<h1>My books</h1><p> \
