@@ -17,5 +17,6 @@ t = time.time()
 booklist.OutputHandler().run(data,
                              "Sannan kirjalista",
                               intro,
-                              "./books.css")
+                              "./books.css",
+			      comments=False)
 print u"\n<!-- Generation took %d milliseconds. -->" % ((time.time()-t) * 10**3)

@@ -142,21 +142,23 @@ class UI:
         except:
             return ""
 
-    def get(self, authors, pageTitle, introText, cssPath):
+    def get(self, authors, pageTitle, introText, cssPath, comments):
         self.printHtmlHeader(pageTitle, cssPath)
 
         print introText
  
         print u"<table id='books' class='tablesorter'>"
         print u"<thead><tr><th class='authors'>Author(s)</th><th>Title</th><th style='width:40px'>Year</th>" \
-                "<th style='width:75px'>Rate (1-5)</th><th>Comment</th></tr></thead>"
+                "<th style='width:75px'>Rate (1-5)</th>"
+	print("<th>Comment</th>") if comments else None
+	print "</tr></thead>"
 
         authors.sort()
 
         print "<tbody>"
 
         for a in authors:
-            self.printAuthor(a)
+            self.printAuthor(a, comments)
         print u"</tbody></table>"
 
         self.printStats(authors)
@@ -208,7 +210,7 @@ class UI:
         self.__id += 1
         return n
 
-    def printAuthor(self, author):
+    def printAuthor(self, author, comments):
         books = author.getBooks()
         books.sort()
         count = 0
@@ -216,13 +218,15 @@ class UI:
             id = self.generateId()
             # The getNames() is already utf-8 encoded, 
             # that's why the literal is not re-encoded.
-            print "<tr><td>%s</td><td><a type='amzn' category='books'>%s</a></td><td>%s</td><td id='stars_%d'>%s</td><td>%s</td></tr>" \
+            print "<tr><td>%s</td><td><a type='amzn' category='books'>%s</a></td><td>%s</td><td id='stars_%d'>%s</td>" \
                 % (cgi.escape(author.getNames()), 
                    cgi.escape(book.getTitle()), 
                    book.getYear(), 
                    id,
-                   self.getStars(book.getRate(), "stars_%d" % id), 
-                   cgi.escape(book.getComment()))
+                   self.getStars(book.getRate(), "stars_%d" % id))
+            if comments:
+                print "<td>%s</td>" % cgi.escape(book.getComment())
+            print "</tr>"
             count += 1
             #if (len(author.getBooks()) == count):
             #    print "<tr><td colspan='5'>&nbsp;</td></tr>"
@@ -271,6 +275,6 @@ class OutputHandler:
         print u"Content-type: text/html; charset=UTF-8"
         print ""
     
-    def run(self, path, pageTitle, introText, cssPath):
+    def run(self, path, pageTitle, introText, cssPath, comments=True):
         self.printHttpHeaders()
-        UI().get(Parser(path).parse(), pageTitle, introText, cssPath)
+        UI().get(Parser(path).parse(), pageTitle, introText, cssPath, comments)
